@@ -1,0 +1,1076 @@
+Date,Category,Amount,Payment Method
+01-01-2024,Education,55.14,Credit Card
+02-01-2024,Dining Out,120.19,Bank Transfer
+02-01-2024,Rent,27.44,Debit Card
+02-01-2024,Healthcare,217.64,Debit Card
+03-01-2024,Entertainment,212.68,Bank Transfer
+03-01-2024,Groceries,40.28,Bank Transfer
+03-01-2024,Miscellaneous,71.78,Debit Card
+04-01-2024,Dining Out,119.73,Cash
+04-01-2024,Education,22.47,Bank Transfer
+05-01-2024,Dining Out,284.58,Cash
+05-01-2024,Dining Out,254.53,Debit Card
+05-01-2024,Utilities,107.45,Cash
+05-01-2024,Utilities,201.93,Credit Card
+05-01-2024,Rent,182.79,UPI
+06-01-2024,Entertainment,200.11,Credit Card
+07-01-2024,Entertainment,298.4,Bank Transfer
+07-01-2024,Miscellaneous,293.96,Cash
+07-01-2024,Transport,67.77,Bank Transfer
+07-01-2024,Groceries,258.58,UPI
+08-01-2024,Groceries,35.47,Credit Card
+08-01-2024,Transport,237.14,Cash
+08-01-2024,Education,202.19,UPI
+08-01-2024,Savings,230.39,Bank Transfer
+08-01-2024,Entertainment,214.87,Bank Transfer
+09-01-2024,Miscellaneous,191.34,UPI
+09-01-2024,Groceries,138.37,Cash
+10-01-2024,Groceries,122.77,Cash
+10-01-2024,Healthcare,132.65,Bank Transfer
+11-01-2024,Groceries,223.49,Bank Transfer
+11-01-2024,Savings,211.36,Debit Card
+11-01-2024,Transport,268.89,UPI
+11-01-2024,Savings,147.34,Debit Card
+12-01-2024,Transport,116.09,Bank Transfer
+12-01-2024,Miscellaneous,89.03,Bank Transfer
+12-01-2024,Healthcare,12.98,Bank Transfer
+12-01-2024,Utilities,262.51,Debit Card
+13-01-2024,Rent,103.97,Credit Card
+13-01-2024,Rent,142.54,Credit Card
+13-01-2024,Rent,92.14,Debit Card
+14-01-2024,Transport,89.14,Debit Card
+15-01-2024,Utilities,219.89,Cash
+15-01-2024,Dining Out,66.37,Cash
+15-01-2024,Education,80.4,Cash
+16-01-2024,Utilities,78.34,UPI
+16-01-2024,Transport,264.31,Credit Card
+16-01-2024,Rent,61.27,Debit Card
+16-01-2024,Entertainment,185.01,Bank Transfer
+16-01-2024,Healthcare,128.64,Cash
+17-01-2024,Dining Out,37.52,Cash
+18-01-2024,Savings,280.82,Debit Card
+18-01-2024,Utilities,199.98,Bank Transfer
+19-01-2024,Entertainment,86.3,Cash
+19-01-2024,Miscellaneous,201.46,Debit Card
+19-01-2024,Rent,26.58,Cash
+20-01-2024,Dining Out,294.17,Cash
+20-01-2024,Entertainment,243.76,Credit Card
+20-01-2024,Utilities,282.78,Bank Transfer
+20-01-2024,Groceries,154.42,Cash
+20-01-2024,Groceries,150.44,Debit Card
+21-01-2024,Miscellaneous,265.87,Credit Card
+21-01-2024,Healthcare,285.7,Cash
+22-01-2024,Savings,226.09,Cash
+22-01-2024,Miscellaneous,58.33,Credit Card
+22-01-2024,Healthcare,93.85,Bank Transfer
+22-01-2024,Miscellaneous,206.65,UPI
+23-01-2024,Utilities,89.26,Bank Transfer
+23-01-2024,Groceries,79.56,Credit Card
+23-01-2024,Healthcare,128.08,Cash
+23-01-2024,Rent,289.71,Bank Transfer
+23-01-2024,Utilities,230.91,Credit Card
+24-01-2024,Utilities,190.2,UPI
+24-01-2024,Education,23.31,Cash
+24-01-2024,Utilities,21.72,UPI
+25-01-2024,Healthcare,244.55,Credit Card
+25-01-2024,Education,246.86,UPI
+25-01-2024,Dining Out,46.07,Cash
+26-01-2024,Dining Out,82.63,Bank Transfer
+27-01-2024,Miscellaneous,178.7,Cash
+27-01-2024,Education,279.12,Credit Card
+27-01-2024,Dining Out,134.15,Cash
+27-01-2024,Savings,161.78,UPI
+27-01-2024,Miscellaneous,35.26,UPI
+28-01-2024,Miscellaneous,154.02,UPI
+28-01-2024,Rent,176.76,Debit Card
+28-01-2024,Rent,155.72,Debit Card
+29-01-2024,Savings,156.17,UPI
+29-01-2024,Rent,11.64,UPI
+29-01-2024,Education,231.86,UPI
+30-01-2024,Healthcare,63.97,UPI
+30-01-2024,Healthcare,195.54,Debit Card
+31-01-2024,Education,151.77,UPI
+31-01-2024,Education,37.47,Debit Card
+01-02-2024,Transport,34.83,Debit Card
+01-02-2024,Transport,258.11,Debit Card
+02-02-2024,Healthcare,177.8,Debit Card
+02-02-2024,Transport,251.94,Credit Card
+02-02-2024,Transport,76.14,Debit Card
+02-02-2024,Groceries,216.56,UPI
+02-02-2024,Groceries,36.88,Cash
+03-02-2024,Groceries,285.79,Debit Card
+03-02-2024,Miscellaneous,275.02,Cash
+03-02-2024,Rent,136.35,Cash
+03-02-2024,Healthcare,248.61,Bank Transfer
+04-02-2024,Transport,88.77,Cash
+04-02-2024,Entertainment,250.48,Debit Card
+05-02-2024,Healthcare,59.49,Debit Card
+05-02-2024,Transport,270.61,Debit Card
+05-02-2024,Dining Out,112.38,Cash
+05-02-2024,Dining Out,293.2,UPI
+06-02-2024,Rent,67.22,Bank Transfer
+06-02-2024,Education,40.05,UPI
+07-02-2024,Education,241.46,Cash
+07-02-2024,Education,279.16,Debit Card
+08-02-2024,Transport,167.38,Debit Card
+08-02-2024,Healthcare,113.42,Cash
+08-02-2024,Rent,188.45,UPI
+08-02-2024,Rent,118.49,Cash
+08-02-2024,Utilities,213.39,Debit Card
+09-02-2024,Rent,56.15,Cash
+10-02-2024,Rent,79.82,Credit Card
+10-02-2024,Rent,86.07,Credit Card
+10-02-2024,Groceries,21.9,Bank Transfer
+10-02-2024,Rent,143.81,Cash
+11-02-2024,Savings,165.58,UPI
+11-02-2024,Entertainment,75.21,Cash
+11-02-2024,Transport,237.98,Credit Card
+12-02-2024,Savings,147.79,Cash
+12-02-2024,Miscellaneous,161.24,UPI
+13-02-2024,Rent,215.78,Bank Transfer
+14-02-2024,Healthcare,122.74,Bank Transfer
+15-02-2024,Utilities,165.51,UPI
+15-02-2024,Savings,48.43,Credit Card
+15-02-2024,Dining Out,59.41,Bank Transfer
+15-02-2024,Utilities,201.7,Credit Card
+15-02-2024,Rent,125.6,Cash
+16-02-2024,Utilities,83.65,Credit Card
+16-02-2024,Healthcare,66.2,Cash
+16-02-2024,Education,158.77,Debit Card
+16-02-2024,Dining Out,95.55,Cash
+17-02-2024,Education,68.66,Debit Card
+18-02-2024,Miscellaneous,145.98,Cash
+18-02-2024,Entertainment,289.8,Bank Transfer
+19-02-2024,Miscellaneous,176.62,UPI
+19-02-2024,Dining Out,144.87,Bank Transfer
+19-02-2024,Savings,35.52,Bank Transfer
+20-02-2024,Dining Out,283.58,UPI
+21-02-2024,Transport,118.96,Debit Card
+21-02-2024,Rent,292.8,Debit Card
+21-02-2024,Groceries,295.46,Credit Card
+21-02-2024,Dining Out,216.01,Credit Card
+22-02-2024,Transport,35.43,Cash
+22-02-2024,Savings,20.04,Cash
+22-02-2024,Education,86.27,Bank Transfer
+22-02-2024,Entertainment,216.97,Credit Card
+23-02-2024,Rent,84.11,Credit Card
+23-02-2024,Education,151.7,Bank Transfer
+24-02-2024,Rent,190.15,Bank Transfer
+24-02-2024,Transport,29.41,UPI
+25-02-2024,Groceries,95.38,UPI
+25-02-2024,Miscellaneous,285.29,Bank Transfer
+25-02-2024,Miscellaneous,176.79,Credit Card
+25-02-2024,Transport,62.22,Credit Card
+25-02-2024,Groceries,230.93,Debit Card
+26-02-2024,Education,49.93,Debit Card
+26-02-2024,Miscellaneous,95.24,Debit Card
+27-02-2024,Miscellaneous,67.12,Cash
+27-02-2024,Entertainment,121.05,Cash
+27-02-2024,Education,178.69,UPI
+27-02-2024,Education,63.16,Cash
+27-02-2024,Transport,137.07,Credit Card
+28-02-2024,Dining Out,135.02,UPI
+29-02-2024,Education,139.41,Credit Card
+29-02-2024,Dining Out,245.37,Debit Card
+29-02-2024,Entertainment,43.4,Credit Card
+01-03-2024,Dining Out,33.2,Credit Card
+01-03-2024,Education,212.71,Bank Transfer
+01-03-2024,Savings,85.26,Cash
+02-03-2024,Utilities,70.77,UPI
+02-03-2024,Healthcare,263.7,Credit Card
+02-03-2024,Rent,70.45,Bank Transfer
+02-03-2024,Education,230.27,Debit Card
+02-03-2024,Transport,289.35,Credit Card
+03-03-2024,Entertainment,93.75,Cash
+03-03-2024,Dining Out,53.76,UPI
+04-03-2024,Savings,94.75,Credit Card
+04-03-2024,Entertainment,156.86,Credit Card
+04-03-2024,Rent,156.41,Credit Card
+05-03-2024,Groceries,46.31,Cash
+05-03-2024,Groceries,163.31,Bank Transfer
+06-03-2024,Dining Out,32.81,Cash
+06-03-2024,Entertainment,248.28,Debit Card
+06-03-2024,Groceries,75.26,Credit Card
+07-03-2024,Dining Out,74.82,Credit Card
+07-03-2024,Education,38.66,UPI
+08-03-2024,Miscellaneous,115.48,UPI
+09-03-2024,Dining Out,248.34,Debit Card
+10-03-2024,Healthcare,107.15,Credit Card
+10-03-2024,Transport,253.53,UPI
+11-03-2024,Groceries,253.46,UPI
+11-03-2024,Groceries,165.13,Debit Card
+11-03-2024,Miscellaneous,249.3,UPI
+11-03-2024,Groceries,276.87,Debit Card
+11-03-2024,Healthcare,263.35,Credit Card
+12-03-2024,Groceries,106.79,UPI
+12-03-2024,Miscellaneous,69.3,Debit Card
+12-03-2024,Healthcare,204.98,Cash
+12-03-2024,Transport,165.17,Credit Card
+13-03-2024,Groceries,84.51,UPI
+13-03-2024,Entertainment,190.6,UPI
+14-03-2024,Healthcare,78.01,UPI
+14-03-2024,Rent,292.87,Bank Transfer
+14-03-2024,Entertainment,99.12,Cash
+15-03-2024,Dining Out,291.67,UPI
+15-03-2024,Savings,209.74,Debit Card
+15-03-2024,Utilities,182.67,Bank Transfer
+15-03-2024,Savings,107.5,UPI
+16-03-2024,Miscellaneous,216.63,Cash
+16-03-2024,Rent,93.48,Credit Card
+16-03-2024,Dining Out,256.48,Credit Card
+17-03-2024,Savings,158.8,Bank Transfer
+17-03-2024,Savings,110.14,Credit Card
+18-03-2024,Dining Out,231.69,UPI
+18-03-2024,Savings,232.47,Bank Transfer
+19-03-2024,Entertainment,63.03,Credit Card
+19-03-2024,Education,219.25,Debit Card
+19-03-2024,Education,208.46,Bank Transfer
+19-03-2024,Utilities,269.35,Cash
+20-03-2024,Healthcare,256.88,UPI
+20-03-2024,Education,271.12,Debit Card
+21-03-2024,Miscellaneous,211.18,Cash
+21-03-2024,Transport,26.22,Cash
+21-03-2024,Groceries,203.88,Debit Card
+21-03-2024,Savings,118.27,Debit Card
+22-03-2024,Utilities,153.59,Bank Transfer
+23-03-2024,Utilities,103.7,UPI
+23-03-2024,Rent,298.29,Bank Transfer
+23-03-2024,Dining Out,147.89,Cash
+23-03-2024,Utilities,261.97,Bank Transfer
+23-03-2024,Education,246.91,Debit Card
+24-03-2024,Entertainment,163.13,Debit Card
+24-03-2024,Dining Out,177.22,UPI
+24-03-2024,Savings,127.77,Debit Card
+24-03-2024,Dining Out,218.08,Bank Transfer
+24-03-2024,Utilities,176.34,UPI
+25-03-2024,Groceries,181.37,Bank Transfer
+25-03-2024,Rent,231.88,Bank Transfer
+25-03-2024,Utilities,221.21,Cash
+25-03-2024,Utilities,164.68,Debit Card
+26-03-2024,Savings,261.96,Credit Card
+26-03-2024,Miscellaneous,145.98,UPI
+26-03-2024,Savings,68,Credit Card
+26-03-2024,Utilities,281.14,UPI
+26-03-2024,Entertainment,267.3,Bank Transfer
+27-03-2024,Transport,57.79,Cash
+27-03-2024,Education,44.15,UPI
+27-03-2024,Education,292.86,UPI
+27-03-2024,Dining Out,142.75,Debit Card
+27-03-2024,Miscellaneous,291.08,UPI
+28-03-2024,Rent,17.88,Bank Transfer
+28-03-2024,Miscellaneous,142.4,Credit Card
+28-03-2024,Dining Out,248.11,Credit Card
+28-03-2024,Dining Out,148.47,Bank Transfer
+28-03-2024,Education,132.26,Cash
+29-03-2024,Entertainment,163.29,UPI
+30-03-2024,Education,178.91,Credit Card
+30-03-2024,Groceries,134.2,Bank Transfer
+30-03-2024,Education,22.09,UPI
+30-03-2024,Transport,29.74,Credit Card
+30-03-2024,Groceries,217.95,Debit Card
+31-03-2024,Utilities,280.15,Cash
+31-03-2024,Healthcare,78.62,Bank Transfer
+31-03-2024,Healthcare,148.89,UPI
+01-04-2024,Entertainment,114.65,Credit Card
+01-04-2024,Dining Out,205.04,Cash
+01-04-2024,Education,59.52,Credit Card
+01-04-2024,Rent,212.9,Credit Card
+02-04-2024,Groceries,64.97,Credit Card
+02-04-2024,Education,292,Credit Card
+02-04-2024,Healthcare,267.53,Bank Transfer
+02-04-2024,Savings,64.89,Cash
+03-04-2024,Savings,108.43,UPI
+03-04-2024,Miscellaneous,89.76,UPI
+04-04-2024,Dining Out,28.8,Cash
+04-04-2024,Groceries,92.31,Credit Card
+04-04-2024,Healthcare,146.53,Debit Card
+04-04-2024,Rent,233.01,Bank Transfer
+05-04-2024,Rent,144.34,Debit Card
+05-04-2024,Entertainment,103.91,Cash
+06-04-2024,Miscellaneous,149.57,Debit Card
+06-04-2024,Miscellaneous,160.4,UPI
+07-04-2024,Utilities,172.82,UPI
+07-04-2024,Entertainment,106.05,UPI
+08-04-2024,Education,152.11,Debit Card
+08-04-2024,Miscellaneous,49.85,Debit Card
+09-04-2024,Education,144.23,UPI
+09-04-2024,Dining Out,256.49,Credit Card
+10-04-2024,Rent,168.87,Debit Card
+10-04-2024,Entertainment,76.32,Cash
+10-04-2024,Utilities,96.18,UPI
+10-04-2024,Healthcare,21.19,Bank Transfer
+11-04-2024,Utilities,199.43,Debit Card
+12-04-2024,Education,217.12,Cash
+12-04-2024,Dining Out,179.9,Cash
+12-04-2024,Utilities,148.52,Credit Card
+13-04-2024,Rent,101.32,Bank Transfer
+14-04-2024,Entertainment,62.92,Bank Transfer
+14-04-2024,Utilities,166.22,Cash
+14-04-2024,Groceries,262.92,UPI
+14-04-2024,Education,187.44,Debit Card
+14-04-2024,Utilities,216.94,Bank Transfer
+15-04-2024,Dining Out,298.61,Bank Transfer
+15-04-2024,Miscellaneous,62.51,Bank Transfer
+16-04-2024,Rent,125.79,Bank Transfer
+16-04-2024,Miscellaneous,143.35,Credit Card
+16-04-2024,Utilities,246.72,Debit Card
+16-04-2024,Entertainment,139.07,UPI
+17-04-2024,Savings,104.82,UPI
+17-04-2024,Miscellaneous,59.9,UPI
+17-04-2024,Groceries,189.76,Credit Card
+17-04-2024,Rent,59.16,Credit Card
+18-04-2024,Groceries,81.43,Cash
+19-04-2024,Dining Out,252.06,Cash
+20-04-2024,Savings,45.93,Bank Transfer
+21-04-2024,Transport,208.36,Debit Card
+21-04-2024,Transport,42.04,UPI
+21-04-2024,Transport,288.87,Credit Card
+21-04-2024,Entertainment,114.85,Cash
+22-04-2024,Transport,87.33,Debit Card
+22-04-2024,Healthcare,258.83,Debit Card
+22-04-2024,Healthcare,162.44,Bank Transfer
+22-04-2024,Education,159.97,Cash
+22-04-2024,Entertainment,80.88,Credit Card
+23-04-2024,Entertainment,33.21,Credit Card
+23-04-2024,Savings,193.52,Debit Card
+23-04-2024,Entertainment,97.86,Debit Card
+24-04-2024,Utilities,191.63,Debit Card
+24-04-2024,Savings,282.86,Bank Transfer
+24-04-2024,Education,293.48,Bank Transfer
+25-04-2024,Entertainment,276.98,UPI
+26-04-2024,Education,252.57,Credit Card
+27-04-2024,Groceries,149.8,Credit Card
+28-04-2024,Groceries,234.11,Cash
+28-04-2024,Savings,154,UPI
+28-04-2024,Utilities,238.89,Bank Transfer
+28-04-2024,Utilities,62.12,Bank Transfer
+29-04-2024,Healthcare,97.5,Cash
+30-04-2024,Dining Out,165.52,Cash
+30-04-2024,Healthcare,11.41,Credit Card
+30-04-2024,Entertainment,28.39,Credit Card
+30-04-2024,Savings,276.91,Cash
+30-04-2024,Savings,221.81,UPI
+01-05-2024,Miscellaneous,144.58,Credit Card
+01-05-2024,Rent,172.15,Credit Card
+02-05-2024,Miscellaneous,124.85,Credit Card
+02-05-2024,Dining Out,239.41,Cash
+03-05-2024,Utilities,111.41,UPI
+04-05-2024,Groceries,117.84,Bank Transfer
+04-05-2024,Transport,15.55,Cash
+04-05-2024,Dining Out,66.68,UPI
+04-05-2024,Dining Out,166.94,UPI
+04-05-2024,Groceries,113.11,Bank Transfer
+05-05-2024,Miscellaneous,277.92,Credit Card
+05-05-2024,Savings,101.09,Cash
+05-05-2024,Rent,55.26,Debit Card
+05-05-2024,Education,223.22,UPI
+05-05-2024,Rent,24.61,Debit Card
+06-05-2024,Entertainment,101.62,Bank Transfer
+06-05-2024,Miscellaneous,251.88,Credit Card
+06-05-2024,Utilities,212.14,UPI
+06-05-2024,Entertainment,81.18,Bank Transfer
+06-05-2024,Miscellaneous,222.14,Bank Transfer
+07-05-2024,Healthcare,63.39,UPI
+07-05-2024,Dining Out,246.63,UPI
+08-05-2024,Rent,252.24,UPI
+09-05-2024,Utilities,271.73,UPI
+09-05-2024,Healthcare,98.54,Credit Card
+09-05-2024,Healthcare,46.22,Cash
+09-05-2024,Healthcare,294.47,Debit Card
+09-05-2024,Education,259.66,Debit Card
+10-05-2024,Dining Out,296.17,Cash
+10-05-2024,Miscellaneous,137.73,Debit Card
+11-05-2024,Savings,261.57,Cash
+12-05-2024,Savings,292.26,UPI
+12-05-2024,Miscellaneous,111.25,Bank Transfer
+12-05-2024,Groceries,185.58,Credit Card
+13-05-2024,Groceries,173.49,Debit Card
+13-05-2024,Transport,106.11,Debit Card
+13-05-2024,Transport,118.53,Bank Transfer
+13-05-2024,Utilities,275.27,Credit Card
+13-05-2024,Miscellaneous,69.99,UPI
+14-05-2024,Rent,71.24,Cash
+14-05-2024,Transport,206.66,Debit Card
+15-05-2024,Healthcare,17.32,Debit Card
+15-05-2024,Groceries,118.94,Bank Transfer
+15-05-2024,Miscellaneous,91.02,Debit Card
+16-05-2024,Savings,263.23,Credit Card
+16-05-2024,Healthcare,182.5,Bank Transfer
+17-05-2024,Transport,210.7,UPI
+17-05-2024,Transport,278.21,Cash
+18-05-2024,Dining Out,248.08,UPI
+18-05-2024,Utilities,96.35,UPI
+19-05-2024,Savings,108.45,Debit Card
+19-05-2024,Dining Out,154.32,Debit Card
+20-05-2024,Transport,256.49,Cash
+20-05-2024,Education,193.42,UPI
+20-05-2024,Groceries,22.63,UPI
+20-05-2024,Entertainment,222.53,Debit Card
+20-05-2024,Healthcare,141.59,Debit Card
+21-05-2024,Education,214.74,UPI
+21-05-2024,Savings,214.31,Credit Card
+21-05-2024,Groceries,184.18,UPI
+22-05-2024,Savings,68.45,UPI
+22-05-2024,Utilities,93.61,Bank Transfer
+22-05-2024,Groceries,121.14,Credit Card
+22-05-2024,Utilities,107.23,UPI
+22-05-2024,Healthcare,228.42,Debit Card
+23-05-2024,Rent,109.85,Cash
+23-05-2024,Healthcare,254.87,Bank Transfer
+23-05-2024,Utilities,185.43,Bank Transfer
+23-05-2024,Entertainment,247.61,UPI
+23-05-2024,Education,40.15,Cash
+24-05-2024,Utilities,267.76,Cash
+24-05-2024,Healthcare,190.14,Credit Card
+24-05-2024,Rent,175.11,Cash
+24-05-2024,Utilities,88.69,Bank Transfer
+25-05-2024,Rent,46.85,Credit Card
+25-05-2024,Transport,241.48,Bank Transfer
+26-05-2024,Miscellaneous,41.8,Bank Transfer
+26-05-2024,Entertainment,150.82,Credit Card
+26-05-2024,Healthcare,90.53,Debit Card
+26-05-2024,Healthcare,199.75,UPI
+26-05-2024,Miscellaneous,55.42,Debit Card
+27-05-2024,Education,65.13,Cash
+27-05-2024,Groceries,124.16,UPI
+27-05-2024,Miscellaneous,148.15,Debit Card
+27-05-2024,Education,94.35,Credit Card
+28-05-2024,Dining Out,157.66,Debit Card
+28-05-2024,Miscellaneous,219.92,Cash
+28-05-2024,Utilities,184.37,Credit Card
+29-05-2024,Education,48.69,Credit Card
+29-05-2024,Savings,34.53,UPI
+29-05-2024,Savings,226.94,UPI
+29-05-2024,Savings,213.32,UPI
+29-05-2024,Groceries,141.49,Bank Transfer
+30-05-2024,Entertainment,151.93,UPI
+30-05-2024,Healthcare,106.28,Cash
+30-05-2024,Education,267.03,Debit Card
+30-05-2024,Savings,118.91,Credit Card
+31-05-2024,Transport,14.74,UPI
+31-05-2024,Healthcare,280.13,Debit Card
+31-05-2024,Savings,74.57,Cash
+31-05-2024,Miscellaneous,238.29,Cash
+31-05-2024,Miscellaneous,199.21,UPI
+01-06-2024,Transport,296.85,Credit Card
+02-06-2024,Dining Out,291,UPI
+02-06-2024,Education,129.81,Credit Card
+02-06-2024,Groceries,64.35,Bank Transfer
+02-06-2024,Savings,179.35,UPI
+03-06-2024,Dining Out,196.36,Credit Card
+03-06-2024,Education,296.18,UPI
+04-06-2024,Utilities,155.1,Cash
+04-06-2024,Entertainment,243.17,Cash
+04-06-2024,Miscellaneous,68.94,Credit Card
+04-06-2024,Entertainment,66.44,Debit Card
+05-06-2024,Entertainment,101.76,Cash
+06-06-2024,Savings,295.98,Credit Card
+06-06-2024,Entertainment,23.89,UPI
+06-06-2024,Education,220.22,Bank Transfer
+06-06-2024,Transport,116.03,Cash
+07-06-2024,Healthcare,137.39,Debit Card
+07-06-2024,Rent,183.37,UPI
+08-06-2024,Groceries,109.16,Cash
+08-06-2024,Rent,90.31,UPI
+09-06-2024,Groceries,79.48,Cash
+09-06-2024,Transport,104.31,Bank Transfer
+09-06-2024,Education,129.22,Bank Transfer
+09-06-2024,Rent,142.1,Debit Card
+09-06-2024,Utilities,17.08,Bank Transfer
+10-06-2024,Transport,153.93,Credit Card
+10-06-2024,Education,15.46,Credit Card
+10-06-2024,Entertainment,133.15,Debit Card
+10-06-2024,Utilities,261.15,Debit Card
+10-06-2024,Healthcare,21.85,Cash
+11-06-2024,Miscellaneous,74.97,UPI
+11-06-2024,Savings,122.18,Debit Card
+11-06-2024,Dining Out,154.03,Bank Transfer
+12-06-2024,Entertainment,224.46,Debit Card
+12-06-2024,Rent,227.36,Bank Transfer
+12-06-2024,Healthcare,239.29,Debit Card
+13-06-2024,Miscellaneous,31.38,Credit Card
+13-06-2024,Dining Out,261.67,Bank Transfer
+13-06-2024,Education,31.67,Cash
+14-06-2024,Groceries,216.9,Debit Card
+14-06-2024,Miscellaneous,41.52,Cash
+14-06-2024,Groceries,35.49,Bank Transfer
+14-06-2024,Miscellaneous,152.13,Credit Card
+15-06-2024,Dining Out,263.84,UPI
+15-06-2024,Dining Out,217.62,UPI
+15-06-2024,Healthcare,32.09,Debit Card
+15-06-2024,Rent,135.98,Bank Transfer
+15-06-2024,Education,65,UPI
+16-06-2024,Dining Out,211.11,UPI
+17-06-2024,Transport,146.46,Credit Card
+18-06-2024,Transport,35.93,Credit Card
+19-06-2024,Dining Out,33.18,Bank Transfer
+19-06-2024,Transport,15.74,Debit Card
+19-06-2024,Dining Out,220.68,Debit Card
+19-06-2024,Transport,198.89,Debit Card
+19-06-2024,Entertainment,208.78,Bank Transfer
+20-06-2024,Education,115.19,Bank Transfer
+20-06-2024,Education,59.34,Bank Transfer
+20-06-2024,Groceries,21.67,Bank Transfer
+20-06-2024,Education,269.57,Cash
+21-06-2024,Education,249.33,Cash
+21-06-2024,Rent,215.46,Debit Card
+21-06-2024,Utilities,167.62,Bank Transfer
+21-06-2024,Groceries,221.08,Credit Card
+22-06-2024,Dining Out,196.78,Bank Transfer
+23-06-2024,Groceries,92.81,Credit Card
+23-06-2024,Healthcare,116.94,Cash
+23-06-2024,Miscellaneous,11.35,Credit Card
+24-06-2024,Rent,262.06,UPI
+25-06-2024,Groceries,221.82,Credit Card
+26-06-2024,Entertainment,190.72,Credit Card
+26-06-2024,Utilities,173.63,UPI
+26-06-2024,Transport,265.6,Cash
+26-06-2024,Education,132.18,Bank Transfer
+26-06-2024,Entertainment,80.88,Bank Transfer
+27-06-2024,Healthcare,50.37,Credit Card
+27-06-2024,Groceries,12.5,Debit Card
+28-06-2024,Dining Out,104.71,Debit Card
+29-06-2024,Groceries,285.72,Credit Card
+29-06-2024,Miscellaneous,97.3,Debit Card
+30-06-2024,Dining Out,124.16,Credit Card
+30-06-2024,Transport,18.19,Bank Transfer
+30-06-2024,Education,105.63,UPI
+30-06-2024,Education,45.79,Credit Card
+30-06-2024,Rent,274.09,Debit Card
+01-07-2024,Healthcare,113.97,Debit Card
+02-07-2024,Utilities,72.65,Cash
+03-07-2024,Miscellaneous,291.7,Cash
+03-07-2024,Healthcare,226.92,Credit Card
+03-07-2024,Healthcare,156.19,Cash
+03-07-2024,Healthcare,281.64,Debit Card
+03-07-2024,Groceries,153.31,Debit Card
+04-07-2024,Entertainment,282.52,Bank Transfer
+04-07-2024,Miscellaneous,204.37,Credit Card
+05-07-2024,Savings,75.05,Cash
+05-07-2024,Healthcare,33.23,Bank Transfer
+05-07-2024,Healthcare,170.34,UPI
+05-07-2024,Entertainment,233.69,Credit Card
+06-07-2024,Dining Out,277.96,Cash
+07-07-2024,Healthcare,22.76,Credit Card
+07-07-2024,Education,62.03,UPI
+07-07-2024,Dining Out,197.1,Cash
+07-07-2024,Miscellaneous,155.88,Cash
+07-07-2024,Groceries,87.38,Cash
+08-07-2024,Miscellaneous,166.68,Debit Card
+08-07-2024,Healthcare,272.18,Bank Transfer
+09-07-2024,Savings,82.01,Bank Transfer
+09-07-2024,Rent,258.01,Cash
+09-07-2024,Entertainment,23.86,Credit Card
+09-07-2024,Rent,297.48,Cash
+10-07-2024,Healthcare,274.93,Credit Card
+10-07-2024,Utilities,46.66,Debit Card
+10-07-2024,Savings,117.7,Bank Transfer
+10-07-2024,Transport,163.17,Credit Card
+11-07-2024,Dining Out,74.77,Credit Card
+12-07-2024,Groceries,225.5,UPI
+12-07-2024,Savings,12.59,UPI
+13-07-2024,Savings,141.85,UPI
+14-07-2024,Savings,12.69,Bank Transfer
+14-07-2024,Healthcare,120.06,Bank Transfer
+14-07-2024,Transport,156.09,Debit Card
+15-07-2024,Utilities,228.53,Cash
+16-07-2024,Entertainment,181.68,Credit Card
+16-07-2024,Education,133.06,Credit Card
+16-07-2024,Savings,111.07,Debit Card
+16-07-2024,Dining Out,13.96,Bank Transfer
+17-07-2024,Dining Out,78.56,Bank Transfer
+17-07-2024,Entertainment,113.14,Credit Card
+17-07-2024,Transport,240.35,UPI
+17-07-2024,Entertainment,264.75,Credit Card
+17-07-2024,Groceries,60.71,UPI
+18-07-2024,Transport,121.26,Bank Transfer
+19-07-2024,Education,81.42,Debit Card
+20-07-2024,Utilities,65.56,Bank Transfer
+20-07-2024,Education,113.59,UPI
+21-07-2024,Dining Out,252.93,Debit Card
+21-07-2024,Education,189,Bank Transfer
+21-07-2024,Education,123.62,Debit Card
+22-07-2024,Savings,248.58,Bank Transfer
+22-07-2024,Healthcare,290.72,Credit Card
+22-07-2024,Savings,282.96,UPI
+23-07-2024,Utilities,87.79,Credit Card
+24-07-2024,Dining Out,192.02,Credit Card
+24-07-2024,Groceries,26.45,Bank Transfer
+25-07-2024,Groceries,87.16,Credit Card
+25-07-2024,Entertainment,103.34,UPI
+25-07-2024,Entertainment,276.7,UPI
+25-07-2024,Healthcare,151.72,UPI
+25-07-2024,Dining Out,74.33,Cash
+26-07-2024,Utilities,29.54,Bank Transfer
+26-07-2024,Rent,272.11,Debit Card
+26-07-2024,Utilities,54.11,Bank Transfer
+26-07-2024,Dining Out,122.23,Credit Card
+27-07-2024,Savings,31.92,Credit Card
+27-07-2024,Healthcare,173.9,Bank Transfer
+27-07-2024,Entertainment,264.17,Bank Transfer
+28-07-2024,Groceries,57.36,Credit Card
+28-07-2024,Groceries,151.38,Bank Transfer
+29-07-2024,Miscellaneous,12.7,Cash
+30-07-2024,Healthcare,89.18,Cash
+30-07-2024,Groceries,81.59,Debit Card
+31-07-2024,Utilities,231.62,Credit Card
+31-07-2024,Rent,197.69,Bank Transfer
+31-07-2024,Entertainment,22.07,Credit Card
+31-07-2024,Dining Out,220.23,Debit Card
+01-08-2024,Entertainment,208.02,UPI
+01-08-2024,Savings,92.03,UPI
+01-08-2024,Savings,97.2,Debit Card
+01-08-2024,Rent,138.44,Debit Card
+01-08-2024,Dining Out,86.2,Cash
+02-08-2024,Dining Out,157.04,Credit Card
+02-08-2024,Miscellaneous,277.82,Debit Card
+03-08-2024,Healthcare,134.91,Bank Transfer
+03-08-2024,Entertainment,220.17,Cash
+04-08-2024,Dining Out,216.3,Debit Card
+04-08-2024,Groceries,129.39,Debit Card
+04-08-2024,Transport,135.68,Bank Transfer
+05-08-2024,Savings,227.48,Credit Card
+05-08-2024,Transport,262.08,Cash
+05-08-2024,Dining Out,76.13,UPI
+06-08-2024,Savings,65.14,Cash
+06-08-2024,Rent,128.36,Bank Transfer
+06-08-2024,Miscellaneous,270.44,UPI
+06-08-2024,Healthcare,248.25,UPI
+07-08-2024,Education,68.6,UPI
+07-08-2024,Healthcare,125.1,Cash
+08-08-2024,Dining Out,94.8,Credit Card
+08-08-2024,Groceries,83.31,Bank Transfer
+08-08-2024,Savings,191.86,Credit Card
+08-08-2024,Entertainment,38.27,Cash
+08-08-2024,Utilities,234.03,Bank Transfer
+09-08-2024,Education,238.19,Debit Card
+09-08-2024,Miscellaneous,113.5,Debit Card
+09-08-2024,Groceries,178.24,Debit Card
+09-08-2024,Rent,188.66,Credit Card
+10-08-2024,Entertainment,200.01,Credit Card
+10-08-2024,Miscellaneous,163.43,UPI
+10-08-2024,Groceries,236.14,Debit Card
+10-08-2024,Healthcare,297.3,Bank Transfer
+11-08-2024,Transport,189.14,Debit Card
+11-08-2024,Education,17.9,UPI
+11-08-2024,Healthcare,215.66,UPI
+11-08-2024,Groceries,283.05,Credit Card
+12-08-2024,Education,30.61,Debit Card
+12-08-2024,Rent,115.56,Credit Card
+12-08-2024,Miscellaneous,95.9,Bank Transfer
+12-08-2024,Rent,226.69,Bank Transfer
+13-08-2024,Transport,21.05,Cash
+13-08-2024,Dining Out,200,Credit Card
+13-08-2024,Miscellaneous,194.05,Cash
+14-08-2024,Entertainment,261.76,Cash
+14-08-2024,Utilities,12.62,Debit Card
+14-08-2024,Entertainment,270.89,Credit Card
+14-08-2024,Savings,111.54,Credit Card
+15-08-2024,Transport,151.73,Bank Transfer
+15-08-2024,Rent,52.03,Bank Transfer
+16-08-2024,Groceries,90.5,Credit Card
+16-08-2024,Savings,51.7,Credit Card
+16-08-2024,Groceries,48.79,Debit Card
+16-08-2024,Education,228.18,Cash
+16-08-2024,Rent,60.64,Bank Transfer
+17-08-2024,Dining Out,206.82,Cash
+18-08-2024,Utilities,259.22,UPI
+18-08-2024,Groceries,153.12,Cash
+19-08-2024,Rent,54.65,Bank Transfer
+19-08-2024,Education,290.12,Credit Card
+19-08-2024,Groceries,60.32,Debit Card
+19-08-2024,Utilities,74.62,Cash
+20-08-2024,Entertainment,29.7,Debit Card
+20-08-2024,Miscellaneous,26.75,Cash
+20-08-2024,Dining Out,277.3,Debit Card
+20-08-2024,Rent,142.37,Cash
+21-08-2024,Rent,213.11,Cash
+21-08-2024,Healthcare,215.08,Debit Card
+21-08-2024,Education,77.6,Bank Transfer
+22-08-2024,Entertainment,15.89,Cash
+22-08-2024,Education,171.91,UPI
+22-08-2024,Education,278.14,Debit Card
+23-08-2024,Healthcare,276.98,UPI
+23-08-2024,Dining Out,212.93,Credit Card
+23-08-2024,Healthcare,156.01,Cash
+24-08-2024,Groceries,48.95,UPI
+24-08-2024,Miscellaneous,149.82,UPI
+24-08-2024,Utilities,119.72,Debit Card
+24-08-2024,Utilities,298,Cash
+24-08-2024,Education,268.06,Cash
+25-08-2024,Healthcare,132.33,Cash
+25-08-2024,Savings,264.22,Debit Card
+25-08-2024,Healthcare,37.47,Debit Card
+26-08-2024,Entertainment,124.13,Debit Card
+26-08-2024,Savings,123.34,Bank Transfer
+27-08-2024,Dining Out,274.11,Debit Card
+27-08-2024,Dining Out,200.33,Bank Transfer
+28-08-2024,Rent,233.87,Bank Transfer
+28-08-2024,Transport,234.58,Debit Card
+28-08-2024,Transport,90.15,Debit Card
+28-08-2024,Entertainment,236.3,Bank Transfer
+29-08-2024,Entertainment,149.05,Bank Transfer
+29-08-2024,Dining Out,84.06,Debit Card
+29-08-2024,Savings,194.57,Bank Transfer
+29-08-2024,Groceries,236.03,Credit Card
+29-08-2024,Transport,203.56,Bank Transfer
+30-08-2024,Healthcare,139.59,UPI
+30-08-2024,Education,127.04,Debit Card
+30-08-2024,Utilities,25.35,Credit Card
+31-08-2024,Entertainment,44.96,Credit Card
+31-08-2024,Miscellaneous,26.01,UPI
+01-09-2024,Entertainment,166.44,Credit Card
+02-09-2024,Utilities,130.3,UPI
+02-09-2024,Groceries,143.29,UPI
+02-09-2024,Miscellaneous,133.35,Cash
+02-09-2024,Rent,206,Bank Transfer
+03-09-2024,Healthcare,221.1,UPI
+03-09-2024,Dining Out,62.43,Credit Card
+04-09-2024,Transport,44.3,Cash
+04-09-2024,Education,137.85,Debit Card
+05-09-2024,Education,289.71,UPI
+05-09-2024,Healthcare,167.52,Bank Transfer
+05-09-2024,Utilities,85.74,Bank Transfer
+05-09-2024,Healthcare,173.04,UPI
+06-09-2024,Education,248.1,Bank Transfer
+06-09-2024,Entertainment,273.74,Cash
+06-09-2024,Savings,120.84,Credit Card
+06-09-2024,Savings,234.18,Credit Card
+07-09-2024,Transport,130.76,Cash
+07-09-2024,Education,260.94,UPI
+08-09-2024,Savings,271.41,Bank Transfer
+09-09-2024,Entertainment,265.23,Cash
+09-09-2024,Education,268.02,Credit Card
+10-09-2024,Savings,134.75,Bank Transfer
+10-09-2024,Utilities,68.12,Bank Transfer
+10-09-2024,Healthcare,93.2,Bank Transfer
+10-09-2024,Groceries,32.79,Cash
+11-09-2024,Entertainment,215,Bank Transfer
+11-09-2024,Miscellaneous,223.91,UPI
+11-09-2024,Savings,125.99,Credit Card
+12-09-2024,Utilities,96.9,UPI
+13-09-2024,Education,116.43,Credit Card
+13-09-2024,Transport,266.44,Debit Card
+14-09-2024,Utilities,284.78,Cash
+14-09-2024,Entertainment,209.84,Debit Card
+14-09-2024,Entertainment,181.72,Cash
+15-09-2024,Groceries,201.13,Cash
+15-09-2024,Savings,180.68,Debit Card
+15-09-2024,Dining Out,254.93,Cash
+16-09-2024,Dining Out,125.09,Bank Transfer
+16-09-2024,Dining Out,161.62,Debit Card
+16-09-2024,Dining Out,227.63,Credit Card
+16-09-2024,Rent,185.9,Cash
+17-09-2024,Miscellaneous,89.18,Credit Card
+17-09-2024,Transport,118.89,UPI
+17-09-2024,Education,127.94,UPI
+17-09-2024,Healthcare,35.11,UPI
+18-09-2024,Miscellaneous,13.37,UPI
+18-09-2024,Transport,255.25,UPI
+18-09-2024,Healthcare,93.96,Credit Card
+18-09-2024,Rent,159.86,UPI
+19-09-2024,Transport,259.41,Bank Transfer
+19-09-2024,Entertainment,227.04,UPI
+19-09-2024,Education,58.14,Bank Transfer
+20-09-2024,Dining Out,178.32,Debit Card
+20-09-2024,Dining Out,76.9,Credit Card
+20-09-2024,Transport,260.9,Bank Transfer
+20-09-2024,Healthcare,143.74,Debit Card
+21-09-2024,Healthcare,171.91,Debit Card
+21-09-2024,Dining Out,106.48,Credit Card
+21-09-2024,Education,277.68,Debit Card
+22-09-2024,Miscellaneous,63.86,UPI
+22-09-2024,Entertainment,255.03,Bank Transfer
+22-09-2024,Healthcare,145.61,Cash
+23-09-2024,Education,288.53,Debit Card
+23-09-2024,Savings,78.21,UPI
+23-09-2024,Groceries,59.98,UPI
+23-09-2024,Miscellaneous,123.79,Credit Card
+23-09-2024,Rent,196.17,Debit Card
+24-09-2024,Entertainment,146.38,Cash
+25-09-2024,Utilities,145.61,Cash
+26-09-2024,Savings,111.45,Bank Transfer
+26-09-2024,Transport,218.93,Cash
+26-09-2024,Education,266.99,Debit Card
+27-09-2024,Healthcare,158.46,Bank Transfer
+27-09-2024,Groceries,271.08,UPI
+27-09-2024,Education,71.09,Bank Transfer
+28-09-2024,Education,87.28,UPI
+29-09-2024,Education,53.66,Debit Card
+29-09-2024,Healthcare,260.07,Bank Transfer
+29-09-2024,Utilities,84.06,UPI
+30-09-2024,Transport,207.23,Debit Card
+30-09-2024,Entertainment,296.87,Bank Transfer
+30-09-2024,Miscellaneous,59.17,Bank Transfer
+01-10-2024,Entertainment,62.05,Credit Card
+02-10-2024,Dining Out,90.73,Credit Card
+02-10-2024,Transport,119.3,Credit Card
+02-10-2024,Savings,156.11,Credit Card
+03-10-2024,Healthcare,204.43,UPI
+03-10-2024,Savings,43.33,Bank Transfer
+04-10-2024,Transport,222.94,Debit Card
+05-10-2024,Transport,153.57,Cash
+05-10-2024,Healthcare,218.43,Bank Transfer
+05-10-2024,Transport,121.56,Bank Transfer
+05-10-2024,Education,230.52,Debit Card
+05-10-2024,Miscellaneous,107.24,Cash
+06-10-2024,Groceries,287.74,Cash
+06-10-2024,Utilities,82.24,Credit Card
+06-10-2024,Education,148.09,Debit Card
+07-10-2024,Dining Out,84.39,Credit Card
+08-10-2024,Entertainment,27.37,Credit Card
+08-10-2024,Miscellaneous,87.13,Cash
+08-10-2024,Education,103.62,Cash
+09-10-2024,Dining Out,156.84,Debit Card
+09-10-2024,Miscellaneous,268.68,Bank Transfer
+10-10-2024,Entertainment,274.4,Cash
+10-10-2024,Transport,236.71,Credit Card
+10-10-2024,Savings,98.91,Cash
+11-10-2024,Miscellaneous,135.72,Credit Card
+11-10-2024,Healthcare,20.5,UPI
+11-10-2024,Transport,284.47,Debit Card
+12-10-2024,Dining Out,186.05,Cash
+12-10-2024,Groceries,252.7,Debit Card
+12-10-2024,Savings,33.33,Cash
+12-10-2024,Education,100.43,UPI
+12-10-2024,Utilities,213.46,Cash
+13-10-2024,Entertainment,107.71,Debit Card
+13-10-2024,Transport,132.88,Bank Transfer
+13-10-2024,Groceries,22.11,Bank Transfer
+14-10-2024,Education,106.82,Cash
+14-10-2024,Rent,101.08,Credit Card
+14-10-2024,Miscellaneous,220.91,Debit Card
+15-10-2024,Rent,212.95,Cash
+16-10-2024,Rent,22.98,Bank Transfer
+17-10-2024,Dining Out,108.81,UPI
+18-10-2024,Dining Out,43.08,Bank Transfer
+18-10-2024,Savings,218.91,Cash
+19-10-2024,Groceries,248.38,Cash
+19-10-2024,Utilities,178.7,Debit Card
+20-10-2024,Entertainment,191.04,Cash
+20-10-2024,Entertainment,64.99,Debit Card
+21-10-2024,Healthcare,69.42,UPI
+21-10-2024,Utilities,109.73,Cash
+22-10-2024,Entertainment,239.11,Cash
+22-10-2024,Miscellaneous,272.91,Debit Card
+22-10-2024,Savings,23.89,UPI
+23-10-2024,Transport,241.08,Bank Transfer
+24-10-2024,Dining Out,174.62,Bank Transfer
+24-10-2024,Groceries,102.15,Bank Transfer
+24-10-2024,Groceries,107.67,UPI
+24-10-2024,Savings,250.98,Debit Card
+25-10-2024,Entertainment,146.42,UPI
+25-10-2024,Groceries,232.11,Debit Card
+25-10-2024,Rent,97.66,Cash
+25-10-2024,Savings,51.44,Bank Transfer
+26-10-2024,Miscellaneous,17.68,Debit Card
+26-10-2024,Groceries,282.18,Cash
+26-10-2024,Transport,266.91,Bank Transfer
+26-10-2024,Transport,147.42,Bank Transfer
+27-10-2024,Transport,174.59,Credit Card
+27-10-2024,Utilities,194.97,UPI
+27-10-2024,Rent,261.71,UPI
+28-10-2024,Rent,179.24,Debit Card
+28-10-2024,Healthcare,205.38,UPI
+28-10-2024,Entertainment,109.28,Debit Card
+28-10-2024,Rent,68.92,Cash
+28-10-2024,Healthcare,171.99,Cash
+29-10-2024,Transport,269.94,Cash
+29-10-2024,Entertainment,194.98,UPI
+29-10-2024,Utilities,236.71,UPI
+29-10-2024,Education,39.39,Debit Card
+29-10-2024,Education,191.59,UPI
+30-10-2024,Savings,119.56,Cash
+30-10-2024,Utilities,48.45,UPI
+30-10-2024,Dining Out,37.22,UPI
+30-10-2024,Education,72.94,Debit Card
+30-10-2024,Entertainment,12.34,Debit Card
+31-10-2024,Healthcare,231.25,Credit Card
+31-10-2024,Groceries,70.73,Debit Card
+31-10-2024,Transport,113.93,Cash
+31-10-2024,Utilities,13.91,UPI
+01-11-2024,Entertainment,192.67,UPI
+02-11-2024,Dining Out,21.02,Debit Card
+02-11-2024,Rent,48.27,Debit Card
+02-11-2024,Utilities,220.94,Debit Card
+03-11-2024,Miscellaneous,180.93,UPI
+03-11-2024,Savings,21.48,Bank Transfer
+04-11-2024,Healthcare,143.74,UPI
+04-11-2024,Groceries,41.25,Bank Transfer
+04-11-2024,Utilities,87.45,Cash
+05-11-2024,Education,238.16,Credit Card
+05-11-2024,Utilities,111.41,UPI
+06-11-2024,Savings,186.73,UPI
+06-11-2024,Dining Out,193.55,UPI
+07-11-2024,Rent,104.63,Bank Transfer
+08-11-2024,Healthcare,47.85,UPI
+08-11-2024,Entertainment,242.86,Credit Card
+08-11-2024,Savings,41.15,Debit Card
+09-11-2024,Dining Out,193.2,Debit Card
+09-11-2024,Groceries,130.4,Bank Transfer
+09-11-2024,Transport,15.97,UPI
+09-11-2024,Entertainment,279.29,Credit Card
+09-11-2024,Rent,190.63,UPI
+10-11-2024,Entertainment,146.11,Credit Card
+11-11-2024,Transport,189.34,UPI
+11-11-2024,Education,111.73,UPI
+11-11-2024,Groceries,24.16,Cash
+11-11-2024,Savings,290.03,Bank Transfer
+12-11-2024,Rent,91.16,UPI
+12-11-2024,Dining Out,259.06,Bank Transfer
+12-11-2024,Groceries,149.68,Bank Transfer
+12-11-2024,Savings,197.99,Cash
+13-11-2024,Education,231.67,Cash
+13-11-2024,Rent,24.11,UPI
+13-11-2024,Rent,21.72,UPI
+13-11-2024,Miscellaneous,24.51,Credit Card
+14-11-2024,Rent,117.95,Credit Card
+14-11-2024,Savings,153.98,Cash
+15-11-2024,Groceries,81.35,Credit Card
+15-11-2024,Healthcare,297.12,UPI
+15-11-2024,Transport,155.84,Debit Card
+16-11-2024,Education,186.33,Bank Transfer
+16-11-2024,Transport,267.54,Bank Transfer
+17-11-2024,Groceries,145.59,Cash
+17-11-2024,Utilities,87.2,Bank Transfer
+17-11-2024,Savings,172.37,Debit Card
+17-11-2024,Healthcare,56.55,Debit Card
+18-11-2024,Entertainment,230.87,Bank Transfer
+18-11-2024,Entertainment,69.15,Debit Card
+18-11-2024,Education,127.85,UPI
+18-11-2024,Dining Out,148.29,Debit Card
+19-11-2024,Entertainment,225.49,UPI
+19-11-2024,Education,231.77,Cash
+19-11-2024,Miscellaneous,157.13,Credit Card
+20-11-2024,Healthcare,260.73,Cash
+20-11-2024,Utilities,255.27,Cash
+20-11-2024,Entertainment,149.75,Credit Card
+20-11-2024,Transport,41.18,Debit Card
+21-11-2024,Healthcare,169.02,Bank Transfer
+21-11-2024,Healthcare,86.4,Debit Card
+21-11-2024,Miscellaneous,107.79,UPI
+21-11-2024,Dining Out,157.44,Cash
+21-11-2024,Entertainment,268.56,Credit Card
+22-11-2024,Transport,40.06,Cash
+22-11-2024,Miscellaneous,247.12,Bank Transfer
+22-11-2024,Utilities,253.35,UPI
+22-11-2024,Entertainment,145.58,Debit Card
+22-11-2024,Dining Out,69.01,Debit Card
+23-11-2024,Education,219.05,UPI
+23-11-2024,Dining Out,158.32,Cash
+23-11-2024,Rent,292.28,UPI
+24-11-2024,Healthcare,124.2,Debit Card
+24-11-2024,Savings,177.44,Debit Card
+25-11-2024,Education,46.15,Debit Card
+25-11-2024,Transport,220.12,Debit Card
+26-11-2024,Utilities,56.4,Cash
+26-11-2024,Groceries,28.45,Credit Card
+26-11-2024,Savings,244.98,Bank Transfer
+26-11-2024,Savings,299.59,Debit Card
+26-11-2024,Utilities,290.12,Debit Card
+27-11-2024,Healthcare,157.13,Bank Transfer
+27-11-2024,Rent,164.25,Credit Card
+27-11-2024,Rent,66.1,Cash
+27-11-2024,Rent,133.54,Credit Card
+28-11-2024,Entertainment,66.39,Cash
+29-11-2024,Entertainment,99.9,UPI
+29-11-2024,Education,266.9,Credit Card
+29-11-2024,Education,28.46,Debit Card
+30-11-2024,Education,209.12,Credit Card
+30-11-2024,Groceries,25.89,Debit Card
+01-12-2024,Miscellaneous,153.68,Credit Card
+01-12-2024,Education,214.63,Bank Transfer
+02-12-2024,Rent,21.71,Credit Card
+02-12-2024,Healthcare,190.91,Debit Card
+02-12-2024,Education,187.29,Debit Card
+03-12-2024,Entertainment,282.16,UPI
+04-12-2024,Miscellaneous,285.71,UPI
+04-12-2024,Healthcare,202.82,UPI
+04-12-2024,Groceries,289.66,UPI
+04-12-2024,Dining Out,216.61,Debit Card
+05-12-2024,Miscellaneous,222.01,Cash
+06-12-2024,Transport,250.15,Credit Card
+06-12-2024,Transport,177.56,Bank Transfer
+06-12-2024,Transport,84.65,UPI
+06-12-2024,Education,198.53,Cash
+07-12-2024,Savings,82.02,Cash
+07-12-2024,Entertainment,119.93,Bank Transfer
+07-12-2024,Education,63.03,Debit Card
+07-12-2024,Savings,30.9,Debit Card
+08-12-2024,Transport,291.07,Cash
+08-12-2024,Utilities,209.27,Bank Transfer
+08-12-2024,Education,264.83,Cash
+09-12-2024,Dining Out,74.07,Debit Card
+09-12-2024,Entertainment,43.27,Bank Transfer
+09-12-2024,Transport,203.83,Cash
+09-12-2024,Dining Out,57.98,Credit Card
+09-12-2024,Savings,72.66,Cash
+10-12-2024,Groceries,279.73,Credit Card
+10-12-2024,Rent,109.72,Credit Card
+10-12-2024,Miscellaneous,68.1,Bank Transfer
+11-12-2024,Entertainment,25.82,UPI
+11-12-2024,Miscellaneous,222.95,Cash
+11-12-2024,Healthcare,252.38,Debit Card
+12-12-2024,Groceries,238.22,UPI
+12-12-2024,Transport,275.95,Cash
+13-12-2024,Groceries,64.7,Cash
+13-12-2024,Groceries,189.53,Bank Transfer
+13-12-2024,Utilities,291.32,UPI
+14-12-2024,Transport,69.93,Bank Transfer
+14-12-2024,Rent,278.82,Cash
+14-12-2024,Dining Out,244.76,Credit Card
+14-12-2024,Utilities,235.12,Bank Transfer
+14-12-2024,Healthcare,11.32,Cash
+15-12-2024,Savings,182.88,Bank Transfer
+15-12-2024,Transport,45.99,Bank Transfer
+15-12-2024,Savings,254.7,Cash
+15-12-2024,Groceries,143.66,Cash
+16-12-2024,Entertainment,211.08,Cash
+16-12-2024,Utilities,256.1,Debit Card
+16-12-2024,Groceries,122.7,UPI
+16-12-2024,Transport,81.08,UPI
+17-12-2024,Miscellaneous,30.4,Cash
+17-12-2024,Savings,37.89,Cash
+17-12-2024,Dining Out,159.95,Bank Transfer
+17-12-2024,Groceries,236.74,Bank Transfer
+18-12-2024,Savings,201.94,Cash
+18-12-2024,Dining Out,123.22,Cash
+18-12-2024,Miscellaneous,169.98,Debit Card
+18-12-2024,Utilities,245.78,Cash
+18-12-2024,Healthcare,299.85,Cash
+19-12-2024,Dining Out,79.4,Credit Card
+20-12-2024,Groceries,183.06,Cash
+21-12-2024,Rent,145.99,Cash
+22-12-2024,Transport,201.82,UPI
+22-12-2024,Entertainment,154.44,Credit Card
+23-12-2024,Entertainment,73.26,UPI
+23-12-2024,Rent,101.13,Credit Card
+23-12-2024,Miscellaneous,23.6,UPI
+23-12-2024,Dining Out,266.14,Bank Transfer
+23-12-2024,Education,280.39,UPI
+24-12-2024,Rent,79.25,Debit Card
+24-12-2024,Savings,186.75,UPI
+25-12-2024,Entertainment,43.52,Debit Card
+25-12-2024,Utilities,93.42,Bank Transfer
+25-12-2024,Dining Out,263.47,Cash
+26-12-2024,Miscellaneous,136.24,Credit Card
+26-12-2024,Education,256.72,Cash
+26-12-2024,Savings,30.33,Cash
+26-12-2024,Utilities,103.94,Debit Card
+27-12-2024,Utilities,20.17,Bank Transfer
+27-12-2024,Groceries,96.16,Debit Card
+27-12-2024,Rent,49.2,Cash
+27-12-2024,Miscellaneous,150.61,Bank Transfer
+27-12-2024,Groceries,230.18,Cash
+28-12-2024,Dining Out,22.4,UPI
+28-12-2024,Utilities,132.09,Credit Card
+29-12-2024,Transport,255.62,Debit Card
+29-12-2024,Education,194.11,Credit Card
+29-12-2024,Rent,161.57,Cash
+29-12-2024,Entertainment,99.97,Credit Card
+29-12-2024,Groceries,210.31,Debit Card
+30-12-2024,Groceries,179.79,Debit Card
+30-12-2024,Groceries,205.66,UPI
+30-12-2024,Miscellaneous,209.84,Credit Card
+30-12-2024,Healthcare,122.3,UPI
+30-12-2024,Transport,44.34,Cash
